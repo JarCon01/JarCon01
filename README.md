@@ -11,7 +11,7 @@
 
 ### 🧠 Interests
 * **Artificial Intelligence:** Machine learning, LLMs, Reinforcement Learning, Computer Vision.
-* **Mathematics:** Mathematical Modeling, Statistics, Real Analysis.
+* **Mathematics:** Mathematical Modeling, Statistics, Optimization.
 * **Computer Science:** Algorithm Engineering, Data Science, FinTech, Compiler Design.
 * **Leisure:** Violin, endurance hiking, and competitive sports (hockey/baseball)
 ---
