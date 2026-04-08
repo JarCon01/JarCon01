@@ -6,7 +6,7 @@
 ---
 
 ### 🔭 Currently Working On
-* **Cimple** - Developing a simple bootstrapped C Compiler in C.
+* **Cimple** - A simple C Compiler written in C.
 * **Research** - Working to construct a dataset to measure the efficacy of current machine learning model editing techniques.
 
 ### 🧠 Interests
