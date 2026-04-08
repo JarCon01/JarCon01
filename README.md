@@ -1,4 +1,4 @@
-# Hi there, I'm Jarrod! 👋
+# 👋 Hi there, I'm Jarrod!
 
 ### 🎓 Education
 **4th Year Student at Dalhousie University** *Pursuing a double major in Computer Science and Math*
