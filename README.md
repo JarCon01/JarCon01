@@ -13,8 +13,7 @@
 * **Artificial Intelligence:** Machine learning, LLMs, Reinforcement Learning, Computer Vision.
 * **Mathematics:** Mathematical Modeling, Statistics, Real Analysis.
 * **Computer Science:** Algorithm Engineering, Data Science, FinTech, Compiler Design.
-* **Leisure:** Playing the Violin, Hiking, Hockey/Baseball, Reading.
-
+* **Leisure:** Violin, endurance hiking, and competitive sports (hockey/baseball)
 ---
 
 ### 🛠️ Tech Stack and Skills
